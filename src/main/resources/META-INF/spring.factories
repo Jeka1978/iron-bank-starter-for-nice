@@ -1,0 +1,5 @@
+
+
+org.springframework.boot.env.EnvironmentPostProcessor=com.nice.ironbankstarterfornice.ProfileDetectorEPP
+org.springframework.context.ApplicationContextInitializer = com.nice.ironbankstarterfornice.ProfileSentinelApplicationContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.nice.ironbankstarterfornice.StarterConf
